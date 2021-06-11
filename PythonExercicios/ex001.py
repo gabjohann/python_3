@@ -1,3 +1,6 @@
-# Crie um programa que escreva "Olá Mundo!"na tela
+# Faça um programa que leia o nome de uma pessoa e mostre uma mensagem de boas-vindas
 
-print('Olá Mundo!')
+nome = input('Digite seu nome: ')
+print('Prazer em te conhecer,', nome)
+
+# Outra forma: print('Prazer em te conhecer, {}!'.format(nome)
