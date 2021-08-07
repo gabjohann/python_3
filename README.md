@@ -3,14 +3,12 @@
 </h1>
 
 <p align="center">
- <a href="#--sobre">Sobre</a> • 
-  <a href="#--tecnologia-utilizada">Tecnologias utilizadas</a> 
+ • <a href="#--sobre">Sobre</a> • 
+  <a href="#--tecnologia-utilizada">Tecnologias utilizadas</a> •
 </p>
-<br>
 <h2 align="center">
   <img src=".github/cursoemvideo.png" />
 </h2>
-<br>
 
 
 ## [](https://github.com/gabjohann/python_3#--sobre):page_facing_up: Sobre
